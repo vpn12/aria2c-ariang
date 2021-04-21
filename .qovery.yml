@@ -1,0 +1,11 @@
+---
+application:
+  name: "aria2c-ariang"
+  project: "Asdf"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-aria2c-ariang"
+  routes:
+  - application_name: "aria2c-ariang"
+    paths:
+    - "/*"
